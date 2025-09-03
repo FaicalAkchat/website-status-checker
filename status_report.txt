@@ -1,0 +1,3 @@
+https://www.google.com is online.
+https://www.github.com is online.
+https://www.python.org is online.
